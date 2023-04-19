@@ -1,0 +1,8 @@
+.admin-color {
+    color: red;
+}
+
+.button {
+    display: flex;
+    gap: 1em;
+}
